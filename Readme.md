@@ -19,5 +19,5 @@ This project is a single page application from scratch to work as an interactive
 - React Docs https://reactjs.org/docs/getting-started.html
 - W3schools.com
 - Google Fonts
-- Matrial UI used for styling
+- Material UI used for styling
 
